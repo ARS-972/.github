@@ -3,7 +3,7 @@
 <h1 align="center">ARS Martinique</h1>
 <h2 align="center">Construisons des communautés en bonne santé grâce au code !😀</h2>
 
-> Rejoignez-nous comme contributeur et participez <span role="img" aria-label="fire emoji">🔥</span> à créer une communauté dynamique !
+> Rejoignez-nous comme contributeur et participez à créer une communauté dynamique <span role="img" aria-label="fire emoji">🚀👨🏼‍🚀👨🏼‍🚀</span> !
 
 ### Ci-dessous, vous trouverez une liste de notre sélection des dépôts les plus utiles.
 - [API FHIR Annuaire Santé](https://github.com/ARS-972/annuaire-sante-fhir-documentation): Service permettant au grand public de consulter les données en accès libre de l'Annuaire Santé au format JSON, structurées selon le standard d’interopérabilité FHIR (Fast Healthcare Interoperability Resources), développé et maintenu par l’Agence du Numérique en Santé (ANS).
@@ -11,7 +11,7 @@
 - [Awesome Cyber Security](https://github.com/ARS-972/awesome-cyber-security): Une liste de ressources et d’outils en cybersécurité.
 - [Awesome Security Hardening](https://github.com/ARS-972/awesome-security-hardening): Une collection de guides de durcissement de sécurité (hardening): bonnes pratiques, checklists, benchmarks, outils et autres ressources. C’est un travail en cours donc n'hésitez pas à contribuer.
 - [Windows 11 - Post-Install PowerShell Hardening Script](https://github.com/ARS-972/Windows11_PostInstall_Hardening): Un script PowerShell simple et efficace pour optimiser et sécuriser un poste Windows 11 après installation. 
-- [Kan](https://github.com/ARS-972/kan): Alternative open-source à Trello. 
+- [Kan](https://github.com/ARS-972/kan): Une alternative open-source à Trello. 
 
 # 
 ![](https://img.shields.io/twitter/follow/ArsMartinique?style=flat)
@@ -20,4 +20,3 @@
 ![](https://img.shields.io/github/last-commit/ars-972/.github?style=flat)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11676/badge)](https://www.bestpractices.dev/projects/11676)
 ![](https://komarev.com/ghpvc/?username=ars-972&color=grey&label=test&style=flat)
-
